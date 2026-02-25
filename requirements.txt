@@ -1,0 +1,13 @@
+transformers
+langchain
+langchain-huggingface
+huggingface
+huggingface-hub
+torch
+torchvision
+torchaudio
+accelerate
+bitsandbytes
+datasets
+GPUtil
+peft
